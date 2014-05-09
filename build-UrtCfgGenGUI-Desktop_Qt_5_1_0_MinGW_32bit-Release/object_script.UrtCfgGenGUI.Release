@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\LayoutTabArme.o
+./release\LayoutArme.o
+./release\Window.o
+./release\LayoutRadio.o
+./release\LayoutTabRadio.o
+./release\moc_LayoutTabArme.o
+./release\moc_LayoutArme.o
+./release\moc_Window.o
+./release\moc_LayoutRadio.o
+./release\moc_LayoutTabRadio.o
+);

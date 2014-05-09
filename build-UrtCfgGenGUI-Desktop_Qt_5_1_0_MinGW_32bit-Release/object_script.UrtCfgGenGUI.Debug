@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\LayoutTabArme.o
+./debug\LayoutArme.o
+./debug\Window.o
+./debug\LayoutRadio.o
+./debug\LayoutTabRadio.o
+./debug\moc_LayoutTabArme.o
+./debug\moc_LayoutArme.o
+./debug\moc_Window.o
+./debug\moc_LayoutRadio.o
+./debug\moc_LayoutTabRadio.o
+);
